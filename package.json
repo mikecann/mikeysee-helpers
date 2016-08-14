@@ -1,0 +1,34 @@
+{
+  "name": "mikeysee-typescript-helpers",
+  "version": "0.0.1",
+  "description": "A collection of helpful libs for my various projects",
+  "main": "js/index.js",
+  "typings": "js/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -p . --watch",
+    "build": "tsc -p .",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikecann/mikeysee-typescript-helpers.git"
+  },
+  "keywords": [
+    "helpers",
+    "typescript",
+    "mikecann"
+  ],
+  "author": "Mike Cann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikecann/mikeysee-typescript-helpers/issues"
+  },
+  "homepage": "https://github.com/mikecann/mikeysee-typescript-helpers#readme",
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.0"
+  }
+}
