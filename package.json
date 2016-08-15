@@ -1,6 +1,6 @@
 {
   "name": "mikeysee-typescript-helpers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A collection of helpful libs for my various projects",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
