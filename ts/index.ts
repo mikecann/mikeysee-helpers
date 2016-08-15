@@ -8,6 +8,7 @@ export * from "./logging/Logging";
 export * from "./logging/SendToLogger";
 
 export * from "./storage/IStorage";
+export * from "./storage/LocalStorage";
 
 export * from "./signals/Signals";
 
