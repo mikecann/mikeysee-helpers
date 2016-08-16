@@ -1,5 +1,5 @@
 {
-  "name": "mikeysee-typescript-helpers",
+  "name": "mikeysee-helpers",
   "version": "0.0.4",
   "description": "A collection of helpful libs for my various projects",
   "main": "js/index.js",
