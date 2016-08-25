@@ -1,6 +1,6 @@
 {
   "name": "mikeysee-helpers",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "A collection of helpful libs for my various projects",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikecann/mikeysee-typescript-helpers.git"
+    "url": "git+https://github.com/mikecann/mikeysee-helpers.git"
   },
   "keywords": [
     "helpers",
@@ -22,9 +22,9 @@
   "author": "Mike Cann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikecann/mikeysee-typescript-helpers/issues"
+    "url": "https://github.com/mikecann/mikeysee-helpers/issues"
   },
-  "homepage": "https://github.com/mikecann/mikeysee-typescript-helpers#readme",
+  "homepage": "https://github.com/mikecann/mikeysee-helpers#readme",
   "dependencies": {
     "moment": "^2.14.1"
   },

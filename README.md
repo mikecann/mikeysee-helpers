@@ -1,2 +1,2 @@
-# ExtensionServices
-A generic collection of helpers and services for use in chrome extensions
+# Mikeysee Helpers
+A generic collection of helpers in typescript for my own projects
